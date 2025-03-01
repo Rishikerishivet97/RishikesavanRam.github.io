@@ -1,0 +1,35 @@
+Awards Page -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awards - Dr. R Rishikesavan</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Honors & Awards</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="research.html">Research</a></li>
+            <li><a href="awards.html">Awards</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>Recognitions</h2>
+        <ul>
+            <li>ICAR Junior Merit M.V.Sc. Placement (2003)</li>
+            <li>Best Oral Presentation Award (ISVM-2006)</li>
+            <li>ICAR PhD-SRF Grant (2008)</li>
+            <li>Best Clinical Case Presentation Award (2010)</li>
+            <li>Best NICRA KVK Award (2011)</li>
+        </ul>
+    </main>
+    <footer>
+        <p>&copy; 2024 Dr. R Rishikesavan | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
