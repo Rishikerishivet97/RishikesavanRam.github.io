@@ -1,0 +1,35 @@
+<!-- Research Page -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research - Dr. R Rishikesavan</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Research & Publications</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="research.html">Research</a></li>
+            <li><a href="awards.html">Awards</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>Research Achievements</h2>
+        <p>Expertise in diagnosis of rabies, serosurveillance, and molecular epidemiology of caprine mycoplasmosis.</p>
+        <h3>Publications</h3>
+        <ul>
+            <li>Successful management of chronic ulcerated wounds in Asian elephants.</li>
+            <li>Molecular detection of Anaplasma marginale in dairy animals.</li>
+            <li>Seroprevalence of Mycoplasmosis in goats in Tamil Nadu.</li>
+        </ul>
+    </main>
+    <footer>
+        <p>&copy; 2024 Dr. R Rishikesavan | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
