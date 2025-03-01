@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. R Rishikesavan - Home</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Dr. R Rishikesavan</h1>
+        <p>Associate Professor and Head</p>
+        <p>Department of Veterinary Public Health & Epidemiology</p>
+        <p>Veterinary College and Research Institute, Theni– 625 534</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="research.html">Research</a></li>
+            <li><a href="awards.html">Awards</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>Welcome to My Faculty Profile</h2>
+        <p>Specializing in Veterinary Epidemiology and Preventive Medicine, with a focus on infectious diseases of livestock and pet animals.</p>
+        <h3>Contact Information</h3>
+        <p>Phone: +91-4546-235400 | +91-9176099325</p>
+        <p>Email: <a href="mailto:rishikesavan.r@tanuvas.ac.in">rishikesavan.r@tanuvas.ac.in</a></p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Dr. R Rishikesavan | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
